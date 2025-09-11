@@ -24,7 +24,6 @@ testdisk
 pdfarranger  
 zenmap  
 wireshark  
-isomaster  
 qdiskinfo  
 kdiskmark  
 bleachbit  
