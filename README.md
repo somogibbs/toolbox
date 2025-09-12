@@ -29,3 +29,5 @@ kdiskmark
 bleachbit  
 gparted  
 gsmartcontrol
+memtest86
+sysbench
