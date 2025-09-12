@@ -11,11 +11,13 @@ apt update
 echo "Installing XFCE system packages..."
 apt install -y \
   xfce4 xfce4-goodies xarchiver thunar-archive-plugin \ 
-  xfce4-power-manager package-update-indicator blueman
+  xfce4-power-manager package-update-indicator blueman \
+  fonts-recommended darkcold-gtk-theme
 
 echo "Installing toolbox packages..."
 apt install -y \
   hardinfo gtkhash guymager wxhexeditor clonezilla testdisk bleachbit \ 
-  pdfarranger zenmap wireshark qdiskinfo kdiskmark gparted gsmartcontrol
+  pdfarranger zenmap wireshark qdiskinfo kdiskmark gparted gsmartcontrol \
+  memtest86 sysbench
 
 echo "Installation complete..."
