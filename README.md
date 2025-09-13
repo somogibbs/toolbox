@@ -9,6 +9,8 @@ thunar-archive-plugin
 xfce4-power-manager  
 package-update-indicator  
 blueman
+fonts-recommended
+darkcold-gtk-theme
 
 * * *
 
@@ -27,7 +29,7 @@ wireshark
 qdiskinfo  
 kdiskmark  
 bleachbit  
-gparted  
-gsmartcontrol
-memtest86
+gparted    
+gsmartcontrol  
+memtest86  
 sysbench
